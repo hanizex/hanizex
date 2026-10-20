@@ -22,7 +22,7 @@ I bring structure to complex software delivery. For 12+ years I've led distribut
 
 ### Projects
 
-_Coming soon: the side projects and automation tools I build._
+- 🤖 **[Job Search Automation](https://github.com/hanizex/job-search-automation)**: the daily pipeline I built for my own job search. It polls 9 ATS types and 5 job sources, filters roles, screens ad text for hidden blockers, removes duplicates, reads employer replies and tracks startup funding as a lead source. Python, rule-based, read-only by design.
 
 ### Contact
 
