@@ -23,6 +23,8 @@ I bring structure to complex software delivery. For 12+ years I've led distribut
 ### Projects
 
 - 🤖 **[Job Search Automation](https://github.com/hanizex/job-search-automation)**: the daily pipeline I built for my own job search. It polls 9 ATS types and 5 job sources, filters roles, screens ad text for hidden blockers, removes duplicates, reads employer replies and tracks startup funding as a lead source. Python, rule-based, read-only by design.
+- 🧪 **[Mimeon Onboarding Bot](https://github.com/hanizex/mimeon-onboarding-bot)**: a Telegram bot that runs the closed alpha of Mimeon, the mobile app I founded. It handles onboarding, support tickets with critical alerts, a branching survey built on The Mom Test, rewards and funnel analytics, while the team works only in a Google Sheet. Google Apps Script + Sheets + Telegram Bot API, about 7,000 lines in 20 modules.
+- ☕ **[PM Coffee Time Bot](https://github.com/hanizex/pm-coffee-time-bot)**: a Telegram bot for the PM meetup series I organise and host. It covers announcement, registration, Google Calendar invites with delivery checks, the recording and materials, and feedback with polite reminders. SendPulse no-code flows + a Google Apps Script backend.
 
 ### Contact
 
