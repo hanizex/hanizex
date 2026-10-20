@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Mykola Kalakutskyi 👋
 
-<!--
-**hanizex/hanizex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Delivery Manager · Project & Program Management**
+📍 Sofia, Bulgaria · open to relocation and EU-remote
 
-Here are some ideas to get you started:
+I bring structure to complex software delivery. For 12+ years I've led distributed cross-functional teams in product companies, IT outsourcing and consulting. I translate business goals into delivery plans, make progress visible to executives, and remove blockers before they escalate. My background is in engineering (automation), so I speak the language of the developers I work with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've delivered
+
+- 🚀 **3 products** taken from discovery to production launch; up to **50K concurrent users** and **200 TPS** at peak
+- ⏱️ **−30% time-to-market** by reusing an existing platform instead of building from scratch
+- 💰 **$400K/year saved** through process and resource optimisation; managed **$1M+** budgets
+- 📈 **$600K+** in outsourcing upsales through account expansion and pre-sales
+- 🎰 Delivery for B2C products generating **$10M+ monthly GGR**
+- 👥 **18 delivery teams** built from scratch; **500+** mentoring sessions
+
+### How I work
+
+`Agile` `Scrum` `Kanban` `Release Management` `Roadmapping` `Risk Management` `Stakeholder Management` `Budgeting & Forecasting` `Pre-sales & Technical Scoping` `KPI Reporting`
+
+**Tools:** Jira · Confluence · Asana · ClickUp · MS Project · Miro · Figma · GitHub · GitLab · AWS · Amplitude · Tableau
+
+### Projects
+
+_Coming soon: the side projects and automation tools I build._
+
+### Contact
+
+📧 [hanizex@gmail.com](mailto:hanizex@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/hanizex) · 📱 +380 97 005 9728
+
+🌐 English (C1) · Ukrainian · Russian
