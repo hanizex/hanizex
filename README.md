@@ -1,7 +1,7 @@
 ## Hi, I'm Mykola Kalakutskyi 👋
 
-**Senior Delivery Manager · Project & Program Management**
-📍 Sofia, Bulgaria · open to relocation and EU-remote
+**Senior Delivery Manager · Project & Product Management**
+
 
 I bring structure to complex software delivery. For 12+ years I've led distributed cross-functional teams in product companies, IT outsourcing and consulting. I translate business goals into delivery plans, make progress visible to executives, and remove blockers before they escalate. My background is in engineering (automation), so I speak the language of the developers I work with.
 
@@ -28,6 +28,6 @@ I bring structure to complex software delivery. For 12+ years I've led distribut
 
 ### Contact
 
-📧 [hanizex@gmail.com](mailto:hanizex@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/hanizex) · 📱 +380 97 005 9728
+📧 [hanizex@gmail.com](mailto:hanizex@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/hanizex) 
 
-🌐 English (C1) · Ukrainian · Russian
+🌐 English · Ukrainian 
