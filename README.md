@@ -31,3 +31,6 @@ I bring structure to complex software delivery. For 12+ years I've led distribut
 📧 [hanizex@gmail.com](mailto:hanizex@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/hanizex) 
 
 🌐 English · Ukrainian 
+
+
+[![Mykola profile views](https://u8views.com/api/v1/github/profiles/11618476/views/day-week-month-total-count.svg)](https://u8views.com/github/hanizex)
